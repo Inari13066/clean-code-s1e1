@@ -4,16 +4,16 @@ body {
   color: #333;
   font-family: Lato, sans-serif;
 }
-.matrix-container {
+.matrix-cont {
   width: 500px;
   margin: 0 auto;
   display: block;
   text-align: right;
 }
-.matrix-container img {
+.matrix-cont img {
   width: 100%;
 }
-.matrix-container .more-inf {
+.matrix-cont .more-inf {
   font-family: fantasy, cursive;
 }
 
