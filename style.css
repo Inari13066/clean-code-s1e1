@@ -130,7 +130,7 @@ input[type="text"]:focus {
 }
 
 /* Completed */
-#compl-label {
+.compl-label {
   text-decoration: line-through;
   color: #888;
 }
@@ -140,11 +140,11 @@ input[type="text"]:focus {
   display: none;
 }
 
-#go-shop-inp {
+.edit-mode .task-inp {
   display: inline-block;
   width: 224px;
 }
 
-#go-shop {
+.edit-mode .task-lable {
   display: none;
 }
